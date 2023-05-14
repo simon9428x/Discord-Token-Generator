@@ -1,0 +1,9 @@
+{
+    "TOKENGEN":{
+        "captcha":"",
+        "twocaptcha":"",
+        "anticaptcha":"",
+        "hotmailbox" : ""
+
+    }
+}

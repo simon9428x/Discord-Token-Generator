@@ -1,0 +1,7 @@
+anticaptchaofficial
+2captcha-python
+websocket
+websocket-client
+tls_client
+colorama
+requests
